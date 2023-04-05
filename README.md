@@ -8,7 +8,9 @@ takes place.
 
 This code formalizes the second half of my PhD thesis (link coming soon), which
 contains the theoretical background, detailed explanation, and pen-and-paper
-counterpart to the proofs presented here.
+counterpart to the proofs presented here. While the Agda code is
+mostly complete w.r.t. the proofs on paper, there are still a few portions
+that need to be added or reworked.
 
 ### Metatheory and target theory
 
